@@ -20,7 +20,7 @@ export default {
       name: 'مجلة شمول الالكترونية',
       shortName: 'شمول',
       description: 'مجلة شمول الالكترونية تقدم محتوى متنوع من مواضيع رائجة في ساحة الويب',
-      url: '?utm_source=homescreen',
+      url: '/?utm_source=homescreen',
     },
     {
       name: 'حول المجلة',
